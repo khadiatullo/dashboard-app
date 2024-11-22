@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashboard-app%20/static/css/main.dbafc6fb.css",
+    "main.js": "/dashboard-app%20/static/js/main.38df0fb2.js",
+    "static/media/bg-header-desktop.svg": "/dashboard-app%20/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "index.html": "/dashboard-app%20/index.html",
+    "static/media/bg-header-mobile.svg": "/dashboard-app%20/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/dashboard-app%20/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.dbafc6fb.css.map": "/dashboard-app%20/static/css/main.dbafc6fb.css.map",
+    "main.38df0fb2.js.map": "/dashboard-app%20/static/js/main.38df0fb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbafc6fb.css",
+    "static/js/main.38df0fb2.js"
+  ]
+}
